@@ -1,0 +1,75 @@
+h1{
+    color: #2acc4d;
+    border-bottom: double 6px #adf4ae;
+  }
+  
+  .sort.desc:after{
+      content:'▼';
+  }
+  .sort.asc:after{
+      content:"▲";
+  }
+  /* style for pager and pagination from http://wwx.jp/css-pagination*/
+  .pager {
+      overflow: hidden;
+  }
+  
+  .pager ul {
+      list-style: none;
+      position: relative;
+      left: 50%;
+      float: left;
+  }
+  
+  .pager ul li {
+      margin: 0 1px;
+      position: relative;
+      left: -50%;
+      float: left;
+  }
+  
+  .pager ul li span,
+  .pager ul li a {
+      display: block;
+      font-size: 16px;
+      padding: 0.6em 1em;
+      border-radius: 3px;
+  }
+  
+  .pager ul li a {
+      background: #EEE;
+      color: #000;
+      text-decoration: none;
+  }
+  
+  .pager ul li a:hover {
+      background: #333;
+      color: #FFF;
+  }
+  
+  /* added by myself */
+  table{
+    width:70%;
+  }
+  td,th{
+    padding:10px;
+  }
+  th{
+    color:#fff;
+    background:#2acc4d;
+  }
+  table tr:nth-child(odd){
+    background:#e6f2ff;
+  }
+  td{
+    border-bottom:2px solid #adf4ae;
+  }
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+  -moz-appearance:textfield;
+}

@@ -1,0 +1,2612 @@
+{
+    "1cf006b02e60d21cef593be4a142d96e": {
+        "title": "Beyond The Alice (14N)",
+        "grade": 0,
+        "max_score": 2634,
+        "zenichi": 2548,
+        "average": 2034.068376068376,
+        "p": 1.4,
+        "players": 117,
+        "md5": "1cf006b02e60d21cef593be4a142d96e"
+    },
+    "ef8eb19116682827916ad353294f30c8": {
+        "title": "Bogus of True (DPH)",
+        "grade": 0,
+        "max_score": 2874,
+        "zenichi": 2706,
+        "average": 2172.1794871794873,
+        "p": 1.52,
+        "players": 78,
+        "md5": "ef8eb19116682827916ad353294f30c8"
+    },
+    "a4645e6bf907e515763cfa7126555fe9": {
+        "title": "Dai-katsugeki(AMAZE Remix) [14ANOTHER]",
+        "grade": 0,
+        "max_score": 3102,
+        "zenichi": 2933,
+        "average": 2307.4529914529912,
+        "p": 1.37,
+        "players": 117,
+        "md5": "a4645e6bf907e515763cfa7126555fe9"
+    },
+    "a84130abc2b92806ae28a679cbc77dfd": {
+        "title": "Edge of bravery [DP ANOTHER]",
+        "grade": 0,
+        "max_score": 2890,
+        "zenichi": 2829,
+        "average": 2521.3214285714284,
+        "p": 0.5,
+        "players": 28,
+        "md5": "a84130abc2b92806ae28a679cbc77dfd"
+    },
+    "d65aa7b67d31d9b20a87b47c92d02058": {
+        "title": "Encrux [DP]",
+        "grade": 0,
+        "max_score": 2366,
+        "zenichi": 2277,
+        "average": 1828.584,
+        "p": 1.18,
+        "players": 125,
+        "md5": "d65aa7b67d31d9b20a87b47c92d02058"
+    },
+    "ec4243482ebd4758419cdd5f0dbcd93d": {
+        "title": "happy century (HYPER14)",
+        "grade": 0,
+        "max_score": 3124,
+        "zenichi": 3072,
+        "average": 2755.8245614035086,
+        "p": 1.24,
+        "players": 114,
+        "md5": "ec4243482ebd4758419cdd5f0dbcd93d"
+    },
+    "6c7694578e4446c9a1ce3ca9b9a4ef91": {
+        "title": "Her Majesty [DP ANOTHER]",
+        "grade": 0,
+        "max_score": 2600,
+        "zenichi": 2556,
+        "average": 2065.4562737642586,
+        "p": 1.8,
+        "players": 263,
+        "md5": "6c7694578e4446c9a1ce3ca9b9a4ef91"
+    },
+    "51480d58ea703c56178cbf4aa1818ab2": {
+        "title": "introspect [DP Another]",
+        "grade": 0,
+        "max_score": 2820,
+        "zenichi": 2702,
+        "average": 2239.7586206896553,
+        "p": 1.08,
+        "players": 87,
+        "md5": "51480d58ea703c56178cbf4aa1818ab2"
+    },
+    "ff3d89cff34c9b1cfb75a50f7b38ea7d": {
+        "title": "Jasmine Tea Girl [DP ANOTHER]",
+        "grade": 0,
+        "max_score": 2426,
+        "zenichi": 2359,
+        "average": 1966.6942148760331,
+        "p": 1.01,
+        "players": 121,
+        "md5": "ff3d89cff34c9b1cfb75a50f7b38ea7d"
+    },
+    "1fd4c1863f55d604fd48894af9f12a9c": {
+        "title": "JUMMER [DPA]",
+        "grade": 0,
+        "max_score": 1960,
+        "zenichi": 1902,
+        "average": 1646.2142857142858,
+        "p": 0.5,
+        "players": 14,
+        "md5": "1fd4c1863f55d604fd48894af9f12a9c"
+    },
+    "beab368de553ac4c29f6d180572ee726": {
+        "title": "Lucid Dreaming [DP INSANE]",
+        "grade": 0,
+        "max_score": 2824,
+        "zenichi": 2725,
+        "average": 2335.119266055046,
+        "p": 1.8,
+        "players": 109,
+        "md5": "beab368de553ac4c29f6d180572ee726"
+    },
+    "191a530a966d7f4cb956bcce8548fc5c": {
+        "title": "Marion",
+        "grade": 0,
+        "max_score": 3020,
+        "zenichi": 2979,
+        "average": 2548.1290322580644,
+        "p": 1.54,
+        "players": 155,
+        "md5": "191a530a966d7f4cb956bcce8548fc5c"
+    },
+    "25a592e0875645037f24e420957c2bdc": {
+        "title": "melody_express [express14]",
+        "grade": 0,
+        "max_score": 2348,
+        "zenichi": 2283,
+        "average": 1965.7083333333333,
+        "p": 1.8,
+        "players": 96,
+        "md5": "25a592e0875645037f24e420957c2bdc"
+    },
+    "e0778c29c02c8b155b95b03b300182b5": {
+        "title": "Nuts to You! [14KEYS ANOTHER]",
+        "grade": 0,
+        "max_score": 2566,
+        "zenichi": 2532,
+        "average": 2190.2761904761905,
+        "p": 1.8,
+        "players": 210,
+        "md5": "e0778c29c02c8b155b95b03b300182b5"
+    },
+    "24b84a5f70b67bb54b4da39bcead1e56": {
+        "title": "Orbitaloid [DP ANOTHER]",
+        "grade": 0,
+        "max_score": 2554,
+        "zenichi": 2460,
+        "average": 2023.5301204819277,
+        "p": 1.59,
+        "players": 83,
+        "md5": "24b84a5f70b67bb54b4da39bcead1e56"
+    },
+    "5fc0f29f5ad725c1266991dd20c9b439": {
+        "title": "PLASTIC GIRLS (ft. Seorryang) [140000円]",
+        "grade": 0,
+        "max_score": 2618,
+        "zenichi": 2428,
+        "average": 2077.185185185185,
+        "p": 1.8,
+        "players": 81,
+        "md5": "5fc0f29f5ad725c1266991dd20c9b439"
+    },
+    "eda91b02fece36750c6a18afd2284527": {
+        "title": "Ring Ring Ring ☆ Let's H! [R-15]",
+        "grade": 0,
+        "max_score": 2944,
+        "zenichi": 2827,
+        "average": 2354.0625,
+        "p": 1.41,
+        "players": 96,
+        "md5": "eda91b02fece36750c6a18afd2284527"
+    },
+    "e693a74865a2f86d15050fc644bcc374": {
+        "title": "Twilight Observer",
+        "grade": 0,
+        "max_score": 2320,
+        "zenichi": 2240,
+        "average": 1868.2087912087911,
+        "p": 1.15,
+        "players": 91,
+        "md5": "e693a74865a2f86d15050fc644bcc374"
+    },
+    "2afacbc7bb2786a748d366fe4da62014": {
+        "title": "キミとボクへの葬送歌 [DP NORMAL]",
+        "grade": 0,
+        "max_score": 2868,
+        "zenichi": 2775,
+        "average": 2332.6666666666665,
+        "p": 0.76,
+        "players": 60,
+        "md5": "2afacbc7bb2786a748d366fe4da62014"
+    },
+    "336a24600e010d9ce21b03095a0d8557": {
+        "title": "サクライロフワリ [Double]",
+        "grade": 0,
+        "max_score": 3008,
+        "zenichi": 2994,
+        "average": 2518.056701030928,
+        "p": 1.23,
+        "players": 194,
+        "md5": "336a24600e010d9ce21b03095a0d8557"
+    },
+    "6b73f5c141b87ec84a473919b1ceb28e": {
+        "title": "サンバランド [LN ANOTHER14]",
+        "grade": 0,
+        "max_score": 2464,
+        "zenichi": 2421,
+        "average": 2013.6725663716813,
+        "p": 0.98,
+        "players": 226,
+        "md5": "6b73f5c141b87ec84a473919b1ceb28e"
+    },
+    "ac667cd75481e28426bfc0af5f430e77": {
+        "title": "星蝕セクエンス [DP HYPER]",
+        "grade": 0,
+        "max_score": 2892,
+        "zenichi": 2843,
+        "average": 2386.60625,
+        "p": 1.41,
+        "players": 160,
+        "md5": "ac667cd75481e28426bfc0af5f430e77"
+    },
+    "7f27fe2186cfbc66556fcef06f985727": {
+        "title": "Animatronics [14KEY ERROR]",
+        "grade": 1,
+        "max_score": 2430,
+        "zenichi": 2288,
+        "average": 1873.950980392157,
+        "p": 1.04,
+        "players": 102,
+        "md5": "7f27fe2186cfbc66556fcef06f985727"
+    },
+    "d571d3802ebdeb013d88b1265b1a2552": {
+        "title": "Bloody Malie [DPH]",
+        "grade": 1,
+        "max_score": 2796,
+        "zenichi": 2745,
+        "average": 2367.2837837837837,
+        "p": 1.02,
+        "players": 74,
+        "md5": "d571d3802ebdeb013d88b1265b1a2552"
+    },
+    "746900e210c21de7984e01cf08ecc291": {
+        "title": "CLOCKTOWER [DP ANOTHER]",
+        "grade": 1,
+        "max_score": 2656,
+        "zenichi": 2587,
+        "average": 2192.880658436214,
+        "p": 1.8,
+        "players": 243,
+        "md5": "746900e210c21de7984e01cf08ecc291"
+    },
+    "5dedb908c2d0fc61a09a2499ace14ee7": {
+        "title": "especies exoticas",
+        "grade": 1,
+        "max_score": 2440,
+        "zenichi": 2230,
+        "average": 1751.3030303030303,
+        "p": 1.39,
+        "players": 99,
+        "md5": "5dedb908c2d0fc61a09a2499ace14ee7"
+    },
+    "7ae0dc58289894c5bf44fbd8891dd5d6": {
+        "title": "EUROBEATアイドル橘花音のテーマ",
+        "grade": 1,
+        "max_score": 3166,
+        "zenichi": 3106,
+        "average": 2602.9640718562873,
+        "p": 1.19,
+        "players": 167,
+        "md5": "7ae0dc58289894c5bf44fbd8891dd5d6"
+    },
+    "2dc6e8268b5efcca25c9f72f9c1186f0": {
+        "title": "evangelize (blurry images) [DP HARD]",
+        "grade": 1,
+        "max_score": 2188,
+        "zenichi": 2165,
+        "average": 1834.8131868131868,
+        "p": 1.18,
+        "players": 182,
+        "md5": "2dc6e8268b5efcca25c9f72f9c1186f0"
+    },
+    "48d0c83af7af94c25501d16d7f9bae09": {
+        "title": "Extinction and reproduction [DP Hyper]",
+        "grade": 1,
+        "max_score": 2810,
+        "zenichi": 2733,
+        "average": 1970.2463768115942,
+        "p": 0.96,
+        "players": 138,
+        "md5": "48d0c83af7af94c25501d16d7f9bae09"
+    },
+    "aee6452b4b7478a03f738482f38ccdb9": {
+        "title": "Flashdance [DP-sagANOTHER]",
+        "grade": 1,
+        "max_score": 2842,
+        "zenichi": 2749,
+        "average": 2324.2368421052633,
+        "p": 0.61,
+        "players": 38,
+        "md5": "aee6452b4b7478a03f738482f38ccdb9"
+    },
+    "38116a6bf6c3efdf6bd03c34b57c320a": {
+        "title": "Highleg Mermaid [DP ANOTHER]",
+        "grade": 1,
+        "max_score": 3192,
+        "zenichi": 3099,
+        "average": 2623.6774193548385,
+        "p": 0.49,
+        "players": 31,
+        "md5": "38116a6bf6c3efdf6bd03c34b57c320a"
+    },
+    "87a99be482ff03fe37134265827aabf0": {
+        "title": "IKAROS [DPA]",
+        "grade": 1,
+        "max_score": 3114,
+        "zenichi": 3045,
+        "average": 2452.937172774869,
+        "p": 1.27,
+        "players": 191,
+        "md5": "87a99be482ff03fe37134265827aabf0"
+    },
+    "2dbc512d9122bc7e85f6edc3d2fc8411": {
+        "title": "intersection？！ [DP-sagANOTHER]",
+        "grade": 1,
+        "max_score": 2920,
+        "zenichi": 2871,
+        "average": 2385.2972972972975,
+        "p": 0.94,
+        "players": 74,
+        "md5": "2dbc512d9122bc7e85f6edc3d2fc8411"
+    },
+    "dff6930e3435fe6552d4670c689d2270": {
+        "title": "Is This Your Memory? [Another]",
+        "grade": 1,
+        "max_score": 3178,
+        "zenichi": 3129,
+        "average": 2669.5795454545455,
+        "p": 1.03,
+        "players": 88,
+        "md5": "dff6930e3435fe6552d4670c689d2270"
+    },
+    "af3c85b4d9ec0c7ef028affc2f1ba7bb": {
+        "title": "Linescape (14keys Maniac)",
+        "grade": 1,
+        "max_score": 3034,
+        "zenichi": 2991,
+        "average": 2581.5891472868216,
+        "p": 1.21,
+        "players": 129,
+        "md5": "af3c85b4d9ec0c7ef028affc2f1ba7bb"
+    },
+    "635523cefcb62fadaa7ba04fee92520b": {
+        "title": "overtrue [14keys]",
+        "grade": 1,
+        "max_score": 2634,
+        "zenichi": 2515,
+        "average": 1927.1354166666667,
+        "p": 0.84,
+        "players": 96,
+        "md5": "635523cefcb62fadaa7ba04fee92520b"
+    },
+    "c7a7a7a5dd1985f680783d6cad0e66a3": {
+        "title": "Precious!!! [14key,Another]",
+        "grade": 1,
+        "max_score": 3170,
+        "zenichi": 3116,
+        "average": 2475.0141342756183,
+        "p": 1.02,
+        "players": 283,
+        "md5": "c7a7a7a5dd1985f680783d6cad0e66a3"
+    },
+    "d02c8e12c4678a01566f42937444eb79": {
+        "title": "Prismrose [DP ANOTHER]",
+        "grade": 1,
+        "max_score": 3000,
+        "zenichi": 2942,
+        "average": 2502.490566037736,
+        "p": 0.82,
+        "players": 53,
+        "md5": "d02c8e12c4678a01566f42937444eb79"
+    },
+    "1ab2a0140e177fc8681b93cb6768093d": {
+        "title": "Reality [14keys Hyper]",
+        "grade": 1,
+        "max_score": 3244,
+        "zenichi": 3220,
+        "average": 2891.3882352941177,
+        "p": 1.65,
+        "players": 85,
+        "md5": "1ab2a0140e177fc8681b93cb6768093d"
+    },
+    "c2af423792c9067475fce7d4fa9c4436": {
+        "title": "Say A Vengeance [DP ANOTHER]",
+        "grade": 1,
+        "max_score": 3172,
+        "zenichi": 3115,
+        "average": 2634.091836734694,
+        "p": 1.14,
+        "players": 196,
+        "md5": "c2af423792c9067475fce7d4fa9c4436"
+    },
+    "ce8c05ca35de4b2816e34e34757eac44": {
+        "title": "soda ocean",
+        "grade": 1,
+        "max_score": 2766,
+        "zenichi": 2728,
+        "average": 2274.1020408163267,
+        "p": 1.41,
+        "players": 147,
+        "md5": "ce8c05ca35de4b2816e34e34757eac44"
+    },
+    "3d91b783248f05141bcaaf6410ac860c": {
+        "title": "Stargazer [EXTRA]",
+        "grade": 1,
+        "max_score": 3070,
+        "zenichi": 3062,
+        "average": 2788.9615384615386,
+        "p": 1.1,
+        "players": 78,
+        "md5": "3d91b783248f05141bcaaf6410ac860c"
+    },
+    "0f02f3d09fa7218c97d49358b50539e7": {
+        "title": "Twilight Galaxy [DP ANOTHER]",
+        "grade": 1,
+        "max_score": 3600,
+        "zenichi": 3526,
+        "average": 2956.43661971831,
+        "p": 0.83,
+        "players": 71,
+        "md5": "0f02f3d09fa7218c97d49358b50539e7"
+    },
+    "27481e8ce96440b60455430ad57315cb": {
+        "title": "z/e [DP-sagANOTHER]",
+        "grade": 1,
+        "max_score": 2694,
+        "zenichi": 2638,
+        "average": 2166.1194029850744,
+        "p": 0.7,
+        "players": 67,
+        "md5": "27481e8ce96440b60455430ad57315cb"
+    },
+    "349ba985ad69368d8bc559c86d2fd256": {
+        "title": "ΦReboot [14key]",
+        "grade": 1,
+        "max_score": 3368,
+        "zenichi": 3251,
+        "average": 2718.5714285714284,
+        "p": 0.51,
+        "players": 35,
+        "md5": "349ba985ad69368d8bc559c86d2fd256"
+    },
+    "304a55cf280f9875efb248773dc42a0f": {
+        "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
+        "grade": 1,
+        "max_score": 3374,
+        "zenichi": 3344,
+        "average": 2957.7066666666665,
+        "p": 1.01,
+        "players": 75,
+        "md5": "304a55cf280f9875efb248773dc42a0f"
+    },
+    "388426e945942e01ac07b0ff81503690": {
+        "title": "多重極展開 [DP Molecules]",
+        "grade": 1,
+        "max_score": 3060,
+        "zenichi": 2981,
+        "average": 2455.3137254901962,
+        "p": 0.82,
+        "players": 51,
+        "md5": "388426e945942e01ac07b0ff81503690"
+    },
+    "bc9f6970a45fa7fdefd7c2265b132651": {
+        "title": "黄昏のメロディア [DP ANOTHER]",
+        "grade": 1,
+        "max_score": 3264,
+        "zenichi": 3139,
+        "average": 2761.3333333333335,
+        "p": 0.49,
+        "players": 18,
+        "md5": "bc9f6970a45fa7fdefd7c2265b132651"
+    },
+    "5ecedbe580a0056acc597f1019171528": {
+        "title": "４２２ [DP HYPER]",
+        "grade": 1,
+        "max_score": 2982,
+        "zenichi": 2835,
+        "average": 2430.0,
+        "p": 1.6,
+        "players": 78,
+        "md5": "5ecedbe580a0056acc597f1019171528"
+    },
+    "a2518553abe125f233d6d35e68c68d13": {
+        "title": "Bicolor Spirit [DP ANOTHER]",
+        "grade": 2,
+        "max_score": 3040,
+        "zenichi": 2945,
+        "average": 2390.05,
+        "p": 0.98,
+        "players": 140,
+        "md5": "a2518553abe125f233d6d35e68c68d13"
+    },
+    "7d3a0c6cbd5f377bda50b0be87b86f2d": {
+        "title": "Blue Screen of Death [14KEYS INSANE]",
+        "grade": 2,
+        "max_score": 3144,
+        "zenichi": 3022,
+        "average": 2465.25,
+        "p": 1.12,
+        "players": 72,
+        "md5": "7d3a0c6cbd5f377bda50b0be87b86f2d"
+    },
+    "7cdf1284c9df6e5f031bd8ad4a37dbe2": {
+        "title": "BOUNCE THE TECH [DP ANOTHER]",
+        "grade": 2,
+        "max_score": 3192,
+        "zenichi": 3099,
+        "average": 2528.456790123457,
+        "p": 1.04,
+        "players": 81,
+        "md5": "7cdf1284c9df6e5f031bd8ad4a37dbe2"
+    },
+    "a883969ae8ae045218a5f5a8f846eaf4": {
+        "title": "Breeze [台風とそよ風の境目]",
+        "grade": 2,
+        "max_score": 3000,
+        "zenichi": 2953,
+        "average": 2532.4590163934427,
+        "p": 0.74,
+        "players": 61,
+        "md5": "a883969ae8ae045218a5f5a8f846eaf4"
+    },
+    "f47dd3cd5f16c3e5f0372d6a35f4e5fc": {
+        "title": "fall down",
+        "grade": 2,
+        "max_score": 3520,
+        "zenichi": 3387,
+        "average": 2717.9186046511627,
+        "p": 1.28,
+        "players": 86,
+        "md5": "f47dd3cd5f16c3e5f0372d6a35f4e5fc"
+    },
+    "229d455b6bb29029ddfb9fa97f091576": {
+        "title": "fragile crystal -DP empty dream-",
+        "grade": 2,
+        "max_score": 3060,
+        "zenichi": 2961,
+        "average": 2550.4466019417478,
+        "p": 1.36,
+        "players": 103,
+        "md5": "229d455b6bb29029ddfb9fa97f091576"
+    },
+    "2a4637a353bcd5d35b1ecfbbccefb383": {
+        "title": "High-Priestess [SLAUGHER]",
+        "grade": 2,
+        "max_score": 3400,
+        "zenichi": 3250,
+        "average": 2594.698529411765,
+        "p": 0.94,
+        "players": 136,
+        "md5": "2a4637a353bcd5d35b1ecfbbccefb383"
+    },
+    "79d513270d899b4ee308aca0a0a0422b": {
+        "title": "Implexrough [SRBOFU2017DP]",
+        "grade": 2,
+        "max_score": 3182,
+        "zenichi": 3111,
+        "average": 2551.9056603773583,
+        "p": 0.61,
+        "players": 53,
+        "md5": "79d513270d899b4ee308aca0a0a0422b"
+    },
+    "24990b5348187bfd53c897ed4b1ff120": {
+        "title": "Late Summer [nostalgia]",
+        "grade": 2,
+        "max_score": 2850,
+        "zenichi": 2805,
+        "average": 2504.2285714285713,
+        "p": 0.75,
+        "players": 35,
+        "md5": "24990b5348187bfd53c897ed4b1ff120"
+    },
+    "4517d25589a16bf79795b09b95592324": {
+        "title": "Love's Rebirth '06 LEGEND MIX -DP-",
+        "grade": 2,
+        "max_score": 3682,
+        "zenichi": 3620,
+        "average": 2969.497409326425,
+        "p": 1.53,
+        "players": 193,
+        "md5": "4517d25589a16bf79795b09b95592324"
+    },
+    "73012ac67ea897ae78c0202df48b7edc": {
+        "title": "Lumos (BMS Edit) ～蛍光灯～",
+        "grade": 2,
+        "max_score": 2928,
+        "zenichi": 2885,
+        "average": 2503.8571428571427,
+        "p": 0.82,
+        "players": 70,
+        "md5": "73012ac67ea897ae78c0202df48b7edc"
+    },
+    "86335757e9ed29a86a00bd7d34cfe59a": {
+        "title": "Lunar Pulse (DPA)",
+        "grade": 2,
+        "max_score": 2992,
+        "zenichi": 2866,
+        "average": 2322.6304347826085,
+        "p": 0.86,
+        "players": 46,
+        "md5": "86335757e9ed29a86a00bd7d34cfe59a"
+    },
+    "5053443f61297cbaff0b2e7ad5f35714": {
+        "title": "perfume of reunion -DP ANOTHER-",
+        "grade": 2,
+        "max_score": 3294,
+        "zenichi": 3181,
+        "average": 2669.829268292683,
+        "p": 1.01,
+        "players": 82,
+        "md5": "5053443f61297cbaff0b2e7ad5f35714"
+    },
+    "9c5cf59e831eb9fdf7efae0e7613547d": {
+        "title": "Sky Ride -dpa-",
+        "grade": 2,
+        "max_score": 2582,
+        "zenichi": 2544,
+        "average": 2164.394230769231,
+        "p": 0.86,
+        "players": 104,
+        "md5": "9c5cf59e831eb9fdf7efae0e7613547d"
+    },
+    "da90f40fc2435ec76c2739eff8972656": {
+        "title": "Strawberry icecream (bms ver.) -14K another-",
+        "grade": 2,
+        "max_score": 2720,
+        "zenichi": 2675,
+        "average": 2288.4736842105262,
+        "p": 0.82,
+        "players": 76,
+        "md5": "da90f40fc2435ec76c2739eff8972656"
+    },
+    "71bd48fc050b88d529db151685ab1cc9": {
+        "title": "Zeitfluss [DP Another]",
+        "grade": 2,
+        "max_score": 2874,
+        "zenichi": 2790,
+        "average": 2378.4084507042253,
+        "p": 0.69,
+        "players": 71,
+        "md5": "71bd48fc050b88d529db151685ab1cc9"
+    },
+    "bcf1bb11c0174bb2deafc9dfc64d9254": {
+        "title": "すばらきしこのせかい [for Beginner]",
+        "grade": 2,
+        "max_score": 2700,
+        "zenichi": 2642,
+        "average": 2176.7,
+        "p": 0.67,
+        "players": 80,
+        "md5": "bcf1bb11c0174bb2deafc9dfc64d9254"
+    },
+    "9616428365252530dc3ac6b994e21443": {
+        "title": "ハニエルのうた DPA",
+        "grade": 2,
+        "max_score": 2362,
+        "zenichi": 2276,
+        "average": 1822.142857142857,
+        "p": 0.8,
+        "players": 63,
+        "md5": "9616428365252530dc3ac6b994e21443"
+    },
+    "d8b22d858b28c39fed2f496da2b53584": {
+        "title": "今日一日も全力疾走！ [DP ANOTHER]",
+        "grade": 2,
+        "max_score": 2700,
+        "zenichi": 2630,
+        "average": 2139.9304347826087,
+        "p": 0.87,
+        "players": 115,
+        "md5": "d8b22d858b28c39fed2f496da2b53584"
+    },
+    "298f183c1ae264b77f2a17861cbffbc2": {
+        "title": "六花 [EX14]",
+        "grade": 2,
+        "max_score": 2800,
+        "zenichi": 2761,
+        "average": 2301.4307692307693,
+        "p": 0.8,
+        "players": 65,
+        "md5": "298f183c1ae264b77f2a17861cbffbc2"
+    },
+    "bf3b35fd1f6361818a635d2130a31e69": {
+        "title": "夢、幻。 [DP ANOTHER]",
+        "grade": 2,
+        "max_score": 2662,
+        "zenichi": 2619,
+        "average": 2086.2109375,
+        "p": 0.92,
+        "players": 128,
+        "md5": "bf3b35fd1f6361818a635d2130a31e69"
+    },
+    "7350b957c0c4a5100ca6fca9b24b144e": {
+        "title": "2anyFirst [14-A]",
+        "grade": 3,
+        "max_score": 3126,
+        "zenichi": 2965,
+        "average": 2399.076923076923,
+        "p": 1.11,
+        "players": 78,
+        "md5": "7350b957c0c4a5100ca6fca9b24b144e"
+    },
+    "eed0b50b688f8e5c1bbb21a9a45b47e1": {
+        "title": "Amusing Colorful Pudding. (DP sweet)",
+        "grade": 3,
+        "max_score": 2786,
+        "zenichi": 2634,
+        "average": 2230.046875,
+        "p": 1.17,
+        "players": 64,
+        "md5": "eed0b50b688f8e5c1bbb21a9a45b47e1"
+    },
+    "1542e4cd8301369334457d3c6f4960bd": {
+        "title": "Blacksphere [DP Noise mix]",
+        "grade": 3,
+        "max_score": 3630,
+        "zenichi": 3503,
+        "average": 3017.8653846153848,
+        "p": 0.74,
+        "players": 52,
+        "md5": "1542e4cd8301369334457d3c6f4960bd"
+    },
+    "41b509b55591eb5b9a538986234ba7f7": {
+        "title": "Cosmo Memory [DP M-Another]",
+        "grade": 3,
+        "max_score": 3242,
+        "zenichi": 3170,
+        "average": 2634.4754098360654,
+        "p": 0.67,
+        "players": 61,
+        "md5": "41b509b55591eb5b9a538986234ba7f7"
+    },
+    "935b327e0793b0b35af6028e47fcfa69": {
+        "title": "Damnation 565 [14key practice]",
+        "grade": 3,
+        "max_score": 3578,
+        "zenichi": 3517,
+        "average": 2874.4655172413795,
+        "p": 0.69,
+        "players": 58,
+        "md5": "935b327e0793b0b35af6028e47fcfa69"
+    },
+    "81750983821628d4400dca4a9a8a59f5": {
+        "title": "Destr0yer [DP HYP☆R]",
+        "grade": 3,
+        "max_score": 3416,
+        "zenichi": 3339,
+        "average": 2813.89552238806,
+        "p": 0.77,
+        "players": 67,
+        "md5": "81750983821628d4400dca4a9a8a59f5"
+    },
+    "a52cd28568ed5d56a571362f94a35007": {
+        "title": "Good Life [y_phANOTHER]",
+        "grade": 3,
+        "max_score": 3112,
+        "zenichi": 3039,
+        "average": 2621.714285714286,
+        "p": 0.93,
+        "players": 70,
+        "md5": "a52cd28568ed5d56a571362f94a35007"
+    },
+    "f59aedc595217b62eed54f5ecf663fba": {
+        "title": "gradation (DP ANOTHER)",
+        "grade": 3,
+        "max_score": 3064,
+        "zenichi": 2948,
+        "average": 2412.2272727272725,
+        "p": 1.17,
+        "players": 110,
+        "md5": "f59aedc595217b62eed54f5ecf663fba"
+    },
+    "64062684c04dae583ad17ea7a9224f20": {
+        "title": "Habit Rabit [DP]",
+        "grade": 3,
+        "max_score": 2100,
+        "zenichi": 1882,
+        "average": 1486.0,
+        "p": 0.85,
+        "players": 52,
+        "md5": "64062684c04dae583ad17ea7a9224f20"
+    },
+    "afa03ee007a874a0e4e0a28f0a751b81": {
+        "title": "Life is PIANO [DP HYP☆R]",
+        "grade": 3,
+        "max_score": 3378,
+        "zenichi": 3233,
+        "average": 2708.2714285714287,
+        "p": 0.89,
+        "players": 70,
+        "md5": "afa03ee007a874a0e4e0a28f0a751b81"
+    },
+    "d08dbe5c4b065b7ae3fe80d7354ecfd4": {
+        "title": "Lyrith -迷宮リリス- [sub another]",
+        "grade": 3,
+        "max_score": 3920,
+        "zenichi": 3786,
+        "average": 3299.169811320755,
+        "p": 0.76,
+        "players": 53,
+        "md5": "d08dbe5c4b065b7ae3fe80d7354ecfd4"
+    },
+    "0f120c8076af344310b2c59df8c7d69f": {
+        "title": "Mysticeti",
+        "grade": 3,
+        "max_score": 3590,
+        "zenichi": 3434,
+        "average": 2682.0754716981132,
+        "p": 0.72,
+        "players": 53,
+        "md5": "0f120c8076af344310b2c59df8c7d69f"
+    },
+    "20f9e3a8e3f317c8e1ba3ce866f82fd4": {
+        "title": "Nature of the Earth [A14]",
+        "grade": 3,
+        "max_score": 3422,
+        "zenichi": 3320,
+        "average": 2610.637931034483,
+        "p": 0.89,
+        "players": 58,
+        "md5": "20f9e3a8e3f317c8e1ba3ce866f82fd4"
+    },
+    "2e1d905b08d65ad49333586bfbc9a7b5": {
+        "title": "Satellite in Heart",
+        "grade": 3,
+        "max_score": 3274,
+        "zenichi": 3246,
+        "average": 2735.8846153846152,
+        "p": 1.24,
+        "players": 104,
+        "md5": "2e1d905b08d65ad49333586bfbc9a7b5"
+    },
+    "7870ad2dee9a20f592192c08e815efbf": {
+        "title": "Smiling",
+        "grade": 3,
+        "max_score": 3332,
+        "zenichi": 3253,
+        "average": 2876.6388888888887,
+        "p": 0.63,
+        "players": 36,
+        "md5": "7870ad2dee9a20f592192c08e815efbf"
+    },
+    "efc85ac4ba8afd8cd6b451e3861c3f77": {
+        "title": "STRAY CATS FESTIVAL -k-",
+        "grade": 3,
+        "max_score": 3158,
+        "zenichi": 3042,
+        "average": 2382.076923076923,
+        "p": 0.86,
+        "players": 78,
+        "md5": "efc85ac4ba8afd8cd6b451e3861c3f77"
+    },
+    "4988380f70fe9c0d1a0197e8e5ef9643": {
+        "title": "The Green Light [14KEYS INSANE]",
+        "grade": 3,
+        "max_score": 3528,
+        "zenichi": 3411,
+        "average": 2814.163636363636,
+        "p": 0.79,
+        "players": 55,
+        "md5": "4988380f70fe9c0d1a0197e8e5ef9643"
+    },
+    "dac9501eb6e44e30a8ef7c08ab857e1d": {
+        "title": "This Club is not 4 U [DP ANOTHER]",
+        "grade": 3,
+        "max_score": 3636,
+        "zenichi": 3540,
+        "average": 3006.2988505747126,
+        "p": 0.98,
+        "players": 87,
+        "md5": "dac9501eb6e44e30a8ef7c08ab857e1d"
+    },
+    "f6721d9e4ac564412ce520aae543290c": {
+        "title": "WHIRLWIND [DP SHDMix]",
+        "grade": 3,
+        "max_score": 2846,
+        "zenichi": 2764,
+        "average": 2246.8285714285716,
+        "p": 0.87,
+        "players": 70,
+        "md5": "f6721d9e4ac564412ce520aae543290c"
+    },
+    "fdc6f8e3e78e78f45e763ef20ef848a6": {
+        "title": "☆ウィンドサンバランド☆ -DP ANOTHER-",
+        "grade": 3,
+        "max_score": 3662,
+        "zenichi": 3512,
+        "average": 2976.0754716981132,
+        "p": 1.12,
+        "players": 106,
+        "md5": "fdc6f8e3e78e78f45e763ef20ef848a6"
+    },
+    "fde2c480967f93727ce4c8bc87b6759d": {
+        "title": "ふしぎなおくりもの [DPH]",
+        "grade": 3,
+        "max_score": 3154,
+        "zenichi": 3151,
+        "average": 2931.125,
+        "p": 0.71,
+        "players": 40,
+        "md5": "fde2c480967f93727ce4c8bc87b6759d"
+    },
+    "bfa7329f23edce8d84f146018c220717": {
+        "title": "シンフォニックライツ [HYPER]",
+        "grade": 3,
+        "max_score": 2838,
+        "zenichi": 2807,
+        "average": 2328.28,
+        "p": 0.57,
+        "players": 50,
+        "md5": "bfa7329f23edce8d84f146018c220717"
+    },
+    "926ebcc5fd53d715a4494641a266202d": {
+        "title": "ポケットモンスター BW2 アイリス戦",
+        "grade": 3,
+        "max_score": 2558,
+        "zenichi": 2465,
+        "average": 2035.5338983050847,
+        "p": 1.2,
+        "players": 118,
+        "md5": "926ebcc5fd53d715a4494641a266202d"
+    },
+    "137821b71aee5d8444e7fcc38cd5690c": {
+        "title": "織姫 [dpinsane]",
+        "grade": 3,
+        "max_score": 3736,
+        "zenichi": 3676,
+        "average": 3116.285714285714,
+        "p": 0.66,
+        "players": 63,
+        "md5": "137821b71aee5d8444e7fcc38cd5690c"
+    },
+    "d06fdb6b500818662f2054e0cbc47533": {
+        "title": "A D D i c T i O N 4 5 0 0 0 0 0 [ D P H ]",
+        "grade": 4,
+        "max_score": 4444,
+        "zenichi": 4359,
+        "average": 3688.8039215686276,
+        "p": 0.79,
+        "players": 51,
+        "md5": "d06fdb6b500818662f2054e0cbc47533"
+    },
+    "1d1e81a86e148848f1ba08789e90827e": {
+        "title": "Altostratus [DP EXTRA]",
+        "grade": 4,
+        "max_score": 3856,
+        "zenichi": 3787,
+        "average": 3147.0877192982457,
+        "p": 0.81,
+        "players": 57,
+        "md5": "1d1e81a86e148848f1ba08789e90827e"
+    },
+    "adaba76dca4f2d8eb5518f79d6a0dbd3": {
+        "title": "Black or White",
+        "grade": 4,
+        "max_score": 3786,
+        "zenichi": 3669,
+        "average": 3090.021276595745,
+        "p": 0.73,
+        "players": 47,
+        "md5": "adaba76dca4f2d8eb5518f79d6a0dbd3"
+    },
+    "d9b8ae9d7705e02cf2fe977e990c9438": {
+        "title": "Bouquet colore [Xochipilli]",
+        "grade": 4,
+        "max_score": 4038,
+        "zenichi": 3881,
+        "average": 3333.478260869565,
+        "p": 0.69,
+        "players": 46,
+        "md5": "d9b8ae9d7705e02cf2fe977e990c9438"
+    },
+    "74275b409e2bc00f51366a14c7e5d173": {
+        "title": "CG901B -7- [Short Ver.] [DPEX]",
+        "grade": 4,
+        "max_score": 3204,
+        "zenichi": 3151,
+        "average": 2732.548387096774,
+        "p": 0.68,
+        "players": 62,
+        "md5": "74275b409e2bc00f51366a14c7e5d173"
+    },
+    "87b1773181907991e14826e2d5db07d5": {
+        "title": "Disorder [DPA]",
+        "grade": 4,
+        "max_score": 4000,
+        "zenichi": 3831,
+        "average": 3389.175,
+        "p": 0.64,
+        "players": 40,
+        "md5": "87b1773181907991e14826e2d5db07d5"
+    },
+    "ce7d6db9389dea40079e947f2d83a2c5": {
+        "title": "Eisenschweif (DPA)",
+        "grade": 4,
+        "max_score": 3554,
+        "zenichi": 3356,
+        "average": 2836.095238095238,
+        "p": 0.85,
+        "players": 42,
+        "md5": "ce7d6db9389dea40079e947f2d83a2c5"
+    },
+    "7f20ad48088c7932002b15bb9a6189de": {
+        "title": "Electric Emotion [DPYoitherEASY]",
+        "grade": 4,
+        "max_score": 3618,
+        "zenichi": 3482,
+        "average": 3030.5555555555557,
+        "p": 0.88,
+        "players": 63,
+        "md5": "7f20ad48088c7932002b15bb9a6189de"
+    },
+    "4d4a132f107ac41bb901e43f8c809f9d": {
+        "title": "EXILE [AFOTHER14]",
+        "grade": 4,
+        "max_score": 3758,
+        "zenichi": 3627,
+        "average": 2930.1666666666665,
+        "p": 0.88,
+        "players": 72,
+        "md5": "4d4a132f107ac41bb901e43f8c809f9d"
+    },
+    "a2768a96f3d26adb6e076192b1a9976e": {
+        "title": "Grisaille [DP]",
+        "grade": 4,
+        "max_score": 3360,
+        "zenichi": 3230,
+        "average": 2613.9615384615386,
+        "p": 0.71,
+        "players": 52,
+        "md5": "a2768a96f3d26adb6e076192b1a9976e"
+    },
+    "09170a7abead9fcb7fed236527017ad6": {
+        "title": "Leviathan [Double]",
+        "grade": 4,
+        "max_score": 2926,
+        "zenichi": 2844,
+        "average": 2478.6263736263736,
+        "p": 1.12,
+        "players": 91,
+        "md5": "09170a7abead9fcb7fed236527017ad6"
+    },
+    "23f098872668597df9fb08fba73160bb": {
+        "title": "Lonely Hina",
+        "grade": 4,
+        "max_score": 3312,
+        "zenichi": 3234,
+        "average": 2790.9565217391305,
+        "p": 0.87,
+        "players": 46,
+        "md5": "23f098872668597df9fb08fba73160bb"
+    },
+    "7413baf27804bd657cb0e8aea502ba7c": {
+        "title": "Midnight o'clock [sub another]",
+        "grade": 4,
+        "max_score": 3332,
+        "zenichi": 3153,
+        "average": 2676.557142857143,
+        "p": 1.64,
+        "players": 70,
+        "md5": "7413baf27804bd657cb0e8aea502ba7c"
+    },
+    "f933308f0963b29ad48b6fe249689560": {
+        "title": "QSHELL -拒色のシェルル- [DPA]",
+        "grade": 4,
+        "max_score": 3302,
+        "zenichi": 3116,
+        "average": 2660.6153846153848,
+        "p": 0.77,
+        "players": 39,
+        "md5": "f933308f0963b29ad48b6fe249689560"
+    },
+    "103f559a7cecad6789109a21296d2371": {
+        "title": "searoad tracks =side blue= [DP MANIAC]",
+        "grade": 4,
+        "max_score": 4058,
+        "zenichi": 3872,
+        "average": 3270.7954545454545,
+        "p": 0.75,
+        "players": 44,
+        "md5": "103f559a7cecad6789109a21296d2371"
+    },
+    "e80b8d644b47e94cda1c90ca27014a3b": {
+        "title": "Take Me Away [DPH]",
+        "grade": 4,
+        "max_score": 3610,
+        "zenichi": 3521,
+        "average": 3026.8571428571427,
+        "p": 0.81,
+        "players": 63,
+        "md5": "e80b8d644b47e94cda1c90ca27014a3b"
+    },
+    "d2aa974e5ba749ca8d27c5460c042437": {
+        "title": "Unfictioniam <DPA>",
+        "grade": 4,
+        "max_score": 3494,
+        "zenichi": 3381,
+        "average": 2875.65,
+        "p": 0.55,
+        "players": 40,
+        "md5": "d2aa974e5ba749ca8d27c5460c042437"
+    },
+    "8fda1f7edc956b0a390aa9c7ba1f8d6c": {
+        "title": "VALLISTA [DP VALLISTANDARD]",
+        "grade": 4,
+        "max_score": 2716,
+        "zenichi": 2566,
+        "average": 2065.308724832215,
+        "p": 1.04,
+        "players": 149,
+        "md5": "8fda1f7edc956b0a390aa9c7ba1f8d6c"
+    },
+    "aee587970d848afb5259956b8f184d2c": {
+        "title": "YASAKANI [DP INSANE+]",
+        "grade": 4,
+        "max_score": 2822,
+        "zenichi": 2729,
+        "average": 2269.4574468085107,
+        "p": 0.75,
+        "players": 94,
+        "md5": "aee587970d848afb5259956b8f184d2c"
+    },
+    "daa91f5884399436c2c29c6b3f830f87": {
+        "title": "村 [そんそん]",
+        "grade": 4,
+        "max_score": 2714,
+        "zenichi": 2679,
+        "average": 2526.9615384615386,
+        "p": 0.72,
+        "players": 26,
+        "md5": "daa91f5884399436c2c29c6b3f830f87"
+    },
+    "5a71ac30e80907739a14741a8c26ca5d": {
+        "title": "浮世絵横丁",
+        "grade": 4,
+        "max_score": 3546,
+        "zenichi": 3344,
+        "average": 2731.2,
+        "p": 0.89,
+        "players": 50,
+        "md5": "5a71ac30e80907739a14741a8c26ca5d"
+    },
+    "57bf2117e01dba19e4fa172ade61d400": {
+        "title": "藍煉の人形 [DPA.NOTHER]",
+        "grade": 4,
+        "max_score": 2852,
+        "zenichi": 2746,
+        "average": 2457.9285714285716,
+        "p": 0.42,
+        "players": 14,
+        "md5": "57bf2117e01dba19e4fa172ade61d400"
+    },
+    "b8a1552944a45a43e14125a85cb9803f": {
+        "title": "ametsuchi",
+        "grade": 5,
+        "max_score": 4024,
+        "zenichi": 3952,
+        "average": 3372.823529411765,
+        "p": 1.31,
+        "players": 102,
+        "md5": "b8a1552944a45a43e14125a85cb9803f"
+    },
+    "b73c05f5bc653e4d2a801129d58f2297": {
+        "title": "Anti Function -DP ANOTHER-",
+        "grade": 5,
+        "max_score": 4806,
+        "zenichi": 4294,
+        "average": 3594.9245283018868,
+        "p": 0.84,
+        "players": 53,
+        "md5": "b73c05f5bc653e4d2a801129d58f2297"
+    },
+    "0a093471012b7ace35d8ebb1ff6ed1cb": {
+        "title": "Armillary Sphere",
+        "grade": 5,
+        "max_score": 3724,
+        "zenichi": 3635,
+        "average": 3281.046875,
+        "p": 1.16,
+        "players": 64,
+        "md5": "0a093471012b7ace35d8ebb1ff6ed1cb"
+    },
+    "a988707912f2242bb3763a08a1968c9a": {
+        "title": "Catharsis again [DP ANOTHER]",
+        "grade": 5,
+        "max_score": 3776,
+        "zenichi": 3615,
+        "average": 3014.841121495327,
+        "p": 0.97,
+        "players": 107,
+        "md5": "a988707912f2242bb3763a08a1968c9a"
+    },
+    "972b10226fe6fb1cb39028570a1f34c1": {
+        "title": "Electric Emotion [DP Extension Energy]",
+        "grade": 5,
+        "max_score": 4296,
+        "zenichi": 4006,
+        "average": 3489.0208333333335,
+        "p": 0.79,
+        "players": 48,
+        "md5": "972b10226fe6fb1cb39028570a1f34c1"
+    },
+    "99662346a80bd6fdb7c777aba68e9bd8": {
+        "title": "F4C4D3 [DPA]",
+        "grade": 5,
+        "max_score": 3616,
+        "zenichi": 3436,
+        "average": 2932.6944444444443,
+        "p": 0.58,
+        "players": 36,
+        "md5": "99662346a80bd6fdb7c777aba68e9bd8"
+    },
+    "f4da0cf3f1f3e7783c7fde34e24a5897": {
+        "title": "I do all may star Live 4 U [Conversion]",
+        "grade": 5,
+        "max_score": 4268,
+        "zenichi": 4125,
+        "average": 3510.7727272727275,
+        "p": 0.57,
+        "players": 44,
+        "md5": "f4da0cf3f1f3e7783c7fde34e24a5897"
+    },
+    "43033d8833436e482a5d745e0721b196": {
+        "title": "Light drivv -DP ANOTHER-",
+        "grade": 5,
+        "max_score": 3290,
+        "zenichi": 3084,
+        "average": 2549.3783783783783,
+        "p": 1.01,
+        "players": 74,
+        "md5": "43033d8833436e482a5d745e0721b196"
+    },
+    "a78261c3f9d531540e3f06a86f2d935d": {
+        "title": "Lily [DP-sagANOTHER]",
+        "grade": 5,
+        "max_score": 3084,
+        "zenichi": 3028,
+        "average": 2657.425531914894,
+        "p": 1.09,
+        "players": 47,
+        "md5": "a78261c3f9d531540e3f06a86f2d935d"
+    },
+    "786f14819cdcccf41f493196ba789785": {
+        "title": "MANHATTAN -Starlight-",
+        "grade": 5,
+        "max_score": 3684,
+        "zenichi": 3499,
+        "average": 2958.3166666666666,
+        "p": 0.76,
+        "players": 60,
+        "md5": "786f14819cdcccf41f493196ba789785"
+    },
+    "bfc5a2b4799728e20475b05702d1843f": {
+        "title": "Mercury Prayer -14keys-",
+        "grade": 5,
+        "max_score": 3274,
+        "zenichi": 3203,
+        "average": 2763.93,
+        "p": 0.83,
+        "players": 100,
+        "md5": "bfc5a2b4799728e20475b05702d1843f"
+    },
+    "762258885246b239006c8294e08b1165": {
+        "title": "Modern Times",
+        "grade": 5,
+        "max_score": 3298,
+        "zenichi": 3197,
+        "average": 2770.9824561403507,
+        "p": 0.6,
+        "players": 57,
+        "md5": "762258885246b239006c8294e08b1165"
+    },
+    "829a8cfe13136f18e25003bab8b7ba06": {
+        "title": "Neurotoxin [toxic14]",
+        "grade": 5,
+        "max_score": 3112,
+        "zenichi": 3027,
+        "average": 2619.4777777777776,
+        "p": 0.91,
+        "players": 90,
+        "md5": "829a8cfe13136f18e25003bab8b7ba06"
+    },
+    "d294adfc2a5ba6dbea9795ce7b226a15": {
+        "title": "orangegirl sentiment [DP-sagINSANE]",
+        "grade": 5,
+        "max_score": 3598,
+        "zenichi": 3545,
+        "average": 2949.0,
+        "p": 0.24,
+        "players": 19,
+        "md5": "d294adfc2a5ba6dbea9795ce7b226a15"
+    },
+    "dd4c54666e44046b99e96a5f8225745f": {
+        "title": "phyla [DPEX]",
+        "grade": 5,
+        "max_score": 3496,
+        "zenichi": 3429,
+        "average": 2911.512195121951,
+        "p": 0.45,
+        "players": 41,
+        "md5": "dd4c54666e44046b99e96a5f8225745f"
+    },
+    "d03436d07bc8913d5abd8157887e8327": {
+        "title": "physalis [14KEYS ANOTHER]",
+        "grade": 5,
+        "max_score": 2386,
+        "zenichi": 2309,
+        "average": 1854.6363636363637,
+        "p": 0.76,
+        "players": 55,
+        "md5": "d03436d07bc8913d5abd8157887e8327"
+    },
+    "0c5f9d1948d964fb20696261f632a199": {
+        "title": "reverieland [DPYoither]",
+        "grade": 5,
+        "max_score": 3524,
+        "zenichi": 3434,
+        "average": 2975.1363636363635,
+        "p": 0.33,
+        "players": 22,
+        "md5": "0c5f9d1948d964fb20696261f632a199"
+    },
+    "fb72b922a144a6ef029d0c809cd66479": {
+        "title": "Shamshir -rough Pt.2- [14key,Another]",
+        "grade": 5,
+        "max_score": 3862,
+        "zenichi": 3770,
+        "average": 3003.8064516129034,
+        "p": 0.68,
+        "players": 62,
+        "md5": "fb72b922a144a6ef029d0c809cd66479"
+    },
+    "a3a0fe509b86ba843ae1559397427844": {
+        "title": "Shape [14Ex]",
+        "grade": 5,
+        "max_score": 4366,
+        "zenichi": 4128,
+        "average": 3419.4736842105262,
+        "p": 0.54,
+        "players": 38,
+        "md5": "a3a0fe509b86ba843ae1559397427844"
+    },
+    "a834afeda75511a304fd9584a86e4602": {
+        "title": "squartatrice -dpa-",
+        "grade": 5,
+        "max_score": 3860,
+        "zenichi": 3692,
+        "average": 3209.0344827586205,
+        "p": 1.36,
+        "players": 87,
+        "md5": "a834afeda75511a304fd9584a86e4602"
+    },
+    "e30c5af1577f36d24fb2b0a8e3b6f3b9": {
+        "title": "Yay or Nay [DP ☆NOTHER]",
+        "grade": 5,
+        "max_score": 3468,
+        "zenichi": 3214,
+        "average": 2840.318181818182,
+        "p": 0.53,
+        "players": 22,
+        "md5": "e30c5af1577f36d24fb2b0a8e3b6f3b9"
+    },
+    "3c810e083b74b323b84593d52a78e1c9": {
+        "title": "あのね、涙は。 [DP-sagINSANE]",
+        "grade": 5,
+        "max_score": 3180,
+        "zenichi": 3124,
+        "average": 2709.0434782608695,
+        "p": 0.47,
+        "players": 46,
+        "md5": "3c810e083b74b323b84593d52a78e1c9"
+    },
+    "2a931348daefdfc19f8c89f50c9e5353": {
+        "title": "なついろ アーチ [虹の架け橋]",
+        "grade": 5,
+        "max_score": 2664,
+        "zenichi": 2596,
+        "average": 2295.1803278688526,
+        "p": 0.71,
+        "players": 61,
+        "md5": "2a931348daefdfc19f8c89f50c9e5353"
+    },
+    "af60ad5911f71295d161427319217e45": {
+        "title": "シグナルほっぴんぐ [DP Hard]",
+        "grade": 5,
+        "max_score": 3956,
+        "zenichi": 3831,
+        "average": 3112.15,
+        "p": 0.76,
+        "players": 60,
+        "md5": "af60ad5911f71295d161427319217e45"
+    },
+    "bbfda0f6a39370401e99a89ab0747034": {
+        "title": "スピカ [DP ANOTHER]",
+        "grade": 5,
+        "max_score": 3040,
+        "zenichi": 2979,
+        "average": 2453.9718309859154,
+        "p": 0.67,
+        "players": 71,
+        "md5": "bbfda0f6a39370401e99a89ab0747034"
+    },
+    "71e18a6179ad7854b517a59409254926": {
+        "title": "ラケシスと永遠の祈祷者 [sub black another]",
+        "grade": 5,
+        "max_score": 3478,
+        "zenichi": 3313,
+        "average": 2902.5384615384614,
+        "p": 1.19,
+        "players": 78,
+        "md5": "71e18a6179ad7854b517a59409254926"
+    },
+    "637302837e71bae8d1e6528eb1464481": {
+        "title": "リリカと魔法の言葉 [DP Lyrical]",
+        "grade": 5,
+        "max_score": 3316,
+        "zenichi": 3172,
+        "average": 2800.75,
+        "p": 0.79,
+        "players": 44,
+        "md5": "637302837e71bae8d1e6528eb1464481"
+    },
+    "aaf4a1eef238223c67d96994b66a66f1": {
+        "title": "新月舞踏 -DP ANOTHER-",
+        "grade": 5,
+        "max_score": 2710,
+        "zenichi": 2628,
+        "average": 2169.4074074074074,
+        "p": 0.35,
+        "players": 27,
+        "md5": "aaf4a1eef238223c67d96994b66a66f1"
+    },
+    "0ac8c71c69c6f6d4305b967b07f1c217": {
+        "title": "8bit Voyager [DPBF]",
+        "grade": 6,
+        "max_score": 4452,
+        "zenichi": 4233,
+        "average": 3570.025,
+        "p": 0.63,
+        "players": 40,
+        "md5": "0ac8c71c69c6f6d4305b967b07f1c217"
+    },
+    "a6f82198424691c199e5163f49506554": {
+        "title": "After Burner [Adventure]",
+        "grade": 6,
+        "max_score": 4370,
+        "zenichi": 4104,
+        "average": 3454.8446601941746,
+        "p": 1.2,
+        "players": 103,
+        "md5": "a6f82198424691c199e5163f49506554"
+    },
+    "7ae768f6387952fbee71272fb8cc33ab": {
+        "title": "Amplifying Effect -DP ANOTHER-",
+        "grade": 6,
+        "max_score": 4110,
+        "zenichi": 3754,
+        "average": 3106.0,
+        "p": 0.62,
+        "players": 42,
+        "md5": "7ae768f6387952fbee71272fb8cc33ab"
+    },
+    "79ea88cefbfcdf0dd8dab2f8a23e010b": {
+        "title": "Aurora [北極で撮った素晴らしい虹色]",
+        "grade": 6,
+        "max_score": 4150,
+        "zenichi": 3986,
+        "average": 3354.866666666667,
+        "p": 0.63,
+        "players": 45,
+        "md5": "79ea88cefbfcdf0dd8dab2f8a23e010b"
+    },
+    "f4c22271fa6556baa900d799df05371c": {
+        "title": "Chaotic☆Dream★Festival [DP ANOTHER]",
+        "grade": 6,
+        "max_score": 4000,
+        "zenichi": 3815,
+        "average": 3134.6031746031745,
+        "p": 0.97,
+        "players": 63,
+        "md5": "f4c22271fa6556baa900d799df05371c"
+    },
+    "ba42bf286f04905a967a4007c39eecd8": {
+        "title": "cold world [DP ANOTHER]",
+        "grade": 6,
+        "max_score": 4462,
+        "zenichi": 4184,
+        "average": 3545.8064516129034,
+        "p": 0.74,
+        "players": 31,
+        "md5": "ba42bf286f04905a967a4007c39eecd8"
+    },
+    "ba7157e746a5ce67473fd39b52b491da": {
+        "title": "Disaster -14A-",
+        "grade": 6,
+        "max_score": 4152,
+        "zenichi": 4031,
+        "average": 3423.872340425532,
+        "p": 0.65,
+        "players": 47,
+        "md5": "ba7157e746a5ce67473fd39b52b491da"
+    },
+    "c53e377d470cfd492d635447c9efd615": {
+        "title": "electric butterfly [A14]",
+        "grade": 6,
+        "max_score": 4464,
+        "zenichi": 4237,
+        "average": 3397.103773584906,
+        "p": 1.26,
+        "players": 106,
+        "md5": "c53e377d470cfd492d635447c9efd615"
+    },
+    "f7498e0befb9d2e581871430d9670ecc": {
+        "title": "Emptiness [DP ANOTHER]",
+        "grade": 6,
+        "max_score": 3744,
+        "zenichi": 3515,
+        "average": 3001.7272727272725,
+        "p": 0.36,
+        "players": 22,
+        "md5": "f7498e0befb9d2e581871430d9670ecc"
+    },
+    "60a1e66adcd56b8bac11da52eaaee542": {
+        "title": "eth剣 [二刀流]",
+        "grade": 6,
+        "max_score": 4200,
+        "zenichi": 3849,
+        "average": 3167.621212121212,
+        "p": 1.21,
+        "players": 132,
+        "md5": "60a1e66adcd56b8bac11da52eaaee542"
+    },
+    "3615e69aa5ae32a4574a694af7c2551b": {
+        "title": "Grievous Fate [DP ANOTHER]",
+        "grade": 6,
+        "max_score": 4118,
+        "zenichi": 3973,
+        "average": 3070.8653846153848,
+        "p": 0.67,
+        "players": 52,
+        "md5": "3615e69aa5ae32a4574a694af7c2551b"
+    },
+    "6a9a075aa7e63c399102a03b62522e67": {
+        "title": "HAELEQUIN [DP ANOTHER]",
+        "grade": 6,
+        "max_score": 4026,
+        "zenichi": 3768,
+        "average": 3086.9080459770116,
+        "p": 0.85,
+        "players": 87,
+        "md5": "6a9a075aa7e63c399102a03b62522e67"
+    },
+    "855a2b130f5f522b4629606c5650484a": {
+        "title": "Ms.Naive Princess [Symmetry14]",
+        "grade": 6,
+        "max_score": 3952,
+        "zenichi": 3802,
+        "average": 3118.9307692307693,
+        "p": 1.19,
+        "players": 130,
+        "md5": "855a2b130f5f522b4629606c5650484a"
+    },
+    "bb648bb7b6d71d24ae931c3140cb806c": {
+        "title": "Noblesse Gloria [DP-sagANOTHER]",
+        "grade": 6,
+        "max_score": 3822,
+        "zenichi": 3746,
+        "average": 3322.875,
+        "p": 0.57,
+        "players": 40,
+        "md5": "bb648bb7b6d71d24ae931c3140cb806c"
+    },
+    "696db350374daf33a376b5a1e56863e4": {
+        "title": "Ocean Memory [DP Hyper]",
+        "grade": 6,
+        "max_score": 3044,
+        "zenichi": 2926,
+        "average": 2368.188679245283,
+        "p": 1.23,
+        "players": 106,
+        "md5": "696db350374daf33a376b5a1e56863e4"
+    },
+    "76f4fd4cb0af7ded110fd26103cc83f8": {
+        "title": "Ophelia (14keys Maniac)",
+        "grade": 6,
+        "max_score": 3600,
+        "zenichi": 3432,
+        "average": 2916.9824561403507,
+        "p": 0.85,
+        "players": 57,
+        "md5": "76f4fd4cb0af7ded110fd26103cc83f8"
+    },
+    "3d6408517abfa86af1f9c311adc3db3c": {
+        "title": "Our Dream, Our Justice [DP Sub Black Another+]",
+        "grade": 6,
+        "max_score": 3428,
+        "zenichi": 3178,
+        "average": 2651.4444444444443,
+        "p": 0.68,
+        "players": 36,
+        "md5": "3d6408517abfa86af1f9c311adc3db3c"
+    },
+    "cc2151f6ba99e25ee52cf2fb2899c2eb": {
+        "title": "PLASTIC GIRLS (ft. Seorryang) [DP MANIAC]",
+        "grade": 6,
+        "max_score": 3678,
+        "zenichi": 3446,
+        "average": 2917.0,
+        "p": 0.85,
+        "players": 33,
+        "md5": "cc2151f6ba99e25ee52cf2fb2899c2eb"
+    },
+    "50258f7ef907a028cd554710d8be1299": {
+        "title": "pure maiden's treasure [double elder sister]",
+        "grade": 6,
+        "max_score": 4600,
+        "zenichi": 4513,
+        "average": 3891.8349514563106,
+        "p": 0.75,
+        "players": 103,
+        "md5": "50258f7ef907a028cd554710d8be1299"
+    },
+    "6398996a4cd2d449811cbedcc439115d": {
+        "title": "starlights [DP]",
+        "grade": 6,
+        "max_score": 2920,
+        "zenichi": 2858,
+        "average": 2387.8591549295775,
+        "p": 0.7,
+        "players": 71,
+        "md5": "6398996a4cd2d449811cbedcc439115d"
+    },
+    "15eaa69233d16b75adbaad6601eaddac": {
+        "title": "The Last Page [DP INSANE]",
+        "grade": 6,
+        "max_score": 3500,
+        "zenichi": 3334,
+        "average": 2802.814432989691,
+        "p": 1.76,
+        "players": 97,
+        "md5": "15eaa69233d16b75adbaad6601eaddac"
+    },
+    "8043767df2a4141719991d649b74d23c": {
+        "title": "AirTrip-SF#2- [DP ANOTHER]",
+        "grade": 7,
+        "max_score": 4348,
+        "zenichi": 4136,
+        "average": 3388.5409836065573,
+        "p": 0.82,
+        "players": 61,
+        "md5": "8043767df2a4141719991d649b74d23c"
+    },
+    "87dcc21c72f4e0c25e23915184b848a2": {
+        "title": "all u gotta do is... [DP INSANE]",
+        "grade": 7,
+        "max_score": 4248,
+        "zenichi": 4033,
+        "average": 3282.7272727272725,
+        "p": 0.61,
+        "players": 44,
+        "md5": "87dcc21c72f4e0c25e23915184b848a2"
+    },
+    "e650df1b1c4c3ad522c52ec3e411f3f1": {
+        "title": "ENERGY SYNERGY MATRIX [VerA]",
+        "grade": 7,
+        "max_score": 3834,
+        "zenichi": 3697,
+        "average": 3065.1692307692306,
+        "p": 0.76,
+        "players": 65,
+        "md5": "e650df1b1c4c3ad522c52ec3e411f3f1"
+    },
+    "d33783021b1df12952eecdf2c1eadde7": {
+        "title": "frozen over",
+        "grade": 7,
+        "max_score": 3626,
+        "zenichi": 3486,
+        "average": 3063.9615384615386,
+        "p": 0.39,
+        "players": 26,
+        "md5": "d33783021b1df12952eecdf2c1eadde7"
+    },
+    "d73cdd6d5d1897e2d3052b74263b5283": {
+        "title": "IN [HAORSE MUSIC / DP譜面]",
+        "grade": 7,
+        "max_score": 3776,
+        "zenichi": 3597,
+        "average": 3089.0,
+        "p": 0.31,
+        "players": 21,
+        "md5": "d73cdd6d5d1897e2d3052b74263b5283"
+    },
+    "e0230ece736eac26896ec947f264dd2e": {
+        "title": "Is This Your Memory? [Flashes_b]",
+        "grade": 7,
+        "max_score": 4000,
+        "zenichi": 3811,
+        "average": 3284.8,
+        "p": 0.73,
+        "players": 50,
+        "md5": "e0230ece736eac26896ec947f264dd2e"
+    },
+    "de8c6827b28bc4b92471e7065d0eb698": {
+        "title": "jus†ice [ANOTHER]",
+        "grade": 7,
+        "max_score": 3530,
+        "zenichi": 3260,
+        "average": 2605.4328358208954,
+        "p": 1.04,
+        "players": 67,
+        "md5": "de8c6827b28bc4b92471e7065d0eb698"
+    },
+    "ab61284c1bb89137e93b15288e3c9f09": {
+        "title": "Life is PIANO [DP ☆NOTHER]",
+        "grade": 7,
+        "max_score": 4326,
+        "zenichi": 4133,
+        "average": 3298.830188679245,
+        "p": 0.67,
+        "players": 53,
+        "md5": "ab61284c1bb89137e93b15288e3c9f09"
+    },
+    "c2130397a2397cbf316f6c582cf59f60": {
+        "title": "Lights World [The World]",
+        "grade": 7,
+        "max_score": 3574,
+        "zenichi": 3469,
+        "average": 2817.8356164383563,
+        "p": 0.71,
+        "players": 73,
+        "md5": "c2130397a2397cbf316f6c582cf59f60"
+    },
+    "f36b829438ba718c7e7679b430848c99": {
+        "title": "Luminance (DP ANOTHER)",
+        "grade": 7,
+        "max_score": 4546,
+        "zenichi": 4271,
+        "average": 3354.375,
+        "p": 0.55,
+        "players": 48,
+        "md5": "f36b829438ba718c7e7679b430848c99"
+    },
+    "143734dba02fd634d6a76c77509f8b85": {
+        "title": "Re:End of a Dream [DPH]",
+        "grade": 7,
+        "max_score": 4466,
+        "zenichi": 4171,
+        "average": 3553.3953488372094,
+        "p": 0.56,
+        "players": 43,
+        "md5": "143734dba02fd634d6a76c77509f8b85"
+    },
+    "656f84cbf4c6d02c2cff16cb5da8bdba": {
+        "title": "Re:Sound Sing Step [DP-sagINSANE]",
+        "grade": 7,
+        "max_score": 4898,
+        "zenichi": 4753,
+        "average": 4146.782608695652,
+        "p": 0.38,
+        "players": 23,
+        "md5": "656f84cbf4c6d02c2cff16cb5da8bdba"
+    },
+    "c0df391328b3f4984fc53307236efdda": {
+        "title": "Skull & Witch [DP]",
+        "grade": 7,
+        "max_score": 3498,
+        "zenichi": 3281,
+        "average": 2728.25641025641,
+        "p": 0.47,
+        "players": 39,
+        "md5": "c0df391328b3f4984fc53307236efdda"
+    },
+    "08e62a99f61826c978b45ec93c490dbf": {
+        "title": "Tartaros　 -12m-",
+        "grade": 7,
+        "max_score": 4150,
+        "zenichi": 3851,
+        "average": 3346.785714285714,
+        "p": 0.85,
+        "players": 42,
+        "md5": "08e62a99f61826c978b45ec93c490dbf"
+    },
+    "905126444a0d449d2b089502fcc1ac27": {
+        "title": "Thaumaturgy",
+        "grade": 7,
+        "max_score": 3598,
+        "zenichi": 3490,
+        "average": 2900.815789473684,
+        "p": 0.47,
+        "players": 38,
+        "md5": "905126444a0d449d2b089502fcc1ac27"
+    },
+    "a1a97ad73b976ebfc6f110026b60b1a4": {
+        "title": "TRI-TECH [△]",
+        "grade": 7,
+        "max_score": 4000,
+        "zenichi": 3809,
+        "average": 3011.0363636363636,
+        "p": 0.58,
+        "players": 55,
+        "md5": "a1a97ad73b976ebfc6f110026b60b1a4"
+    },
+    "dd8ebb81bb16e19d54c31c4d8cdb7b96": {
+        "title": "◇スト [DP ANOTHER]",
+        "grade": 7,
+        "max_score": 3724,
+        "zenichi": 3425,
+        "average": 2912.2,
+        "p": 1.29,
+        "players": 50,
+        "md5": "dd8ebb81bb16e19d54c31c4d8cdb7b96"
+    },
+    "d6a3bc8b57baca9d23fd1e0554fb4921": {
+        "title": "もぺもぺ [R-15]",
+        "grade": 7,
+        "max_score": 2906,
+        "zenichi": 2740,
+        "average": 2384.974358974359,
+        "p": 1.49,
+        "players": 78,
+        "md5": "d6a3bc8b57baca9d23fd1e0554fb4921"
+    },
+    "0335197a43d3a8aa66d06079c5112f96": {
+        "title": "アトロポスと最果の探求者 [DP sub black another]",
+        "grade": 7,
+        "max_score": 5176,
+        "zenichi": 4838,
+        "average": 3947.767441860465,
+        "p": 0.9,
+        "players": 43,
+        "md5": "0335197a43d3a8aa66d06079c5112f96"
+    },
+    "7679043f39f8106c6584eeb43851553b": {
+        "title": "サンバランド [Rio de DP]",
+        "grade": 7,
+        "max_score": 3600,
+        "zenichi": 3359,
+        "average": 2322.984455958549,
+        "p": 1.8,
+        "players": 193,
+        "md5": "7679043f39f8106c6584eeb43851553b"
+    },
+    "7e4ba12362bced1950dd4ba13c9d66f8": {
+        "title": "ヒメタイプ [MG]",
+        "grade": 7,
+        "max_score": 3422,
+        "zenichi": 3218,
+        "average": 2785.777777777778,
+        "p": 0.33,
+        "players": 18,
+        "md5": "7e4ba12362bced1950dd4ba13c9d66f8"
+    },
+    "94f62784fa0e6c3b3819bbd677219546": {
+        "title": "プナイプナイたいそう [DP HYP☆R]",
+        "grade": 7,
+        "max_score": 2722,
+        "zenichi": 2600,
+        "average": 2269.051282051282,
+        "p": 0.65,
+        "players": 39,
+        "md5": "94f62784fa0e6c3b3819bbd677219546"
+    },
+    "1d0d3eb106bcd45d886d969d615b95b7": {
+        "title": "恋の2-4-11(BMS Edit) [恋の2-4-11って何だよ]",
+        "grade": 7,
+        "max_score": 5050,
+        "zenichi": 4863,
+        "average": 4151.925373134329,
+        "p": 1.02,
+        "players": 67,
+        "md5": "1d0d3eb106bcd45d886d969d615b95b7"
+    },
+    "b8f6072086e4821003637684f28cd765": {
+        "title": "焔-HOMURA- [ほむ×14]",
+        "grade": 7,
+        "max_score": 3520,
+        "zenichi": 3270,
+        "average": 2679.4,
+        "p": 0.99,
+        "players": 75,
+        "md5": "b8f6072086e4821003637684f28cd765"
+    },
+    "7bda908ed484106306e593fa6b4bef1a": {
+        "title": ".357 Magnum [12.3]",
+        "grade": 8,
+        "max_score": 4574,
+        "zenichi": 4323,
+        "average": 3569.8714285714286,
+        "p": 1.06,
+        "players": 70,
+        "md5": "7bda908ed484106306e593fa6b4bef1a"
+    },
+    "80688a79f251ece911a4a1c3b782f835": {
+        "title": "Absurd Gaff [DP ANOTHER]",
+        "grade": 8,
+        "max_score": 4218,
+        "zenichi": 3934,
+        "average": 3225.6984126984125,
+        "p": 1.17,
+        "players": 63,
+        "md5": "80688a79f251ece911a4a1c3b782f835"
+    },
+    "d0c0d58f4d0c382c3cf4da04f3f6ab0f": {
+        "title": "Bad Apple!! -YH mix-",
+        "grade": 8,
+        "max_score": 4020,
+        "zenichi": 3914,
+        "average": 3192.3826086956524,
+        "p": 1.09,
+        "players": 115,
+        "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f"
+    },
+    "9758bfe64fd9e0f4b1a2906e482e4f24": {
+        "title": "Beyond the Lightning -King's tragedy- [DP INSANE]",
+        "grade": 8,
+        "max_score": 4072,
+        "zenichi": 3971,
+        "average": 3539.76,
+        "p": 0.42,
+        "players": 25,
+        "md5": "9758bfe64fd9e0f4b1a2906e482e4f24"
+    },
+    "7008ff0237c4c9c65809950654b8c01c": {
+        "title": "Bicolor Spirit [DP INSANE]",
+        "grade": 8,
+        "max_score": 4000,
+        "zenichi": 3749,
+        "average": 3094.5897435897436,
+        "p": 0.99,
+        "players": 78,
+        "md5": "7008ff0237c4c9c65809950654b8c01c"
+    },
+    "ffa8beca32b6552e6fd003183a074faf": {
+        "title": "Bogus of True (DPA)",
+        "grade": 8,
+        "max_score": 3770,
+        "zenichi": 3520,
+        "average": 2760.375,
+        "p": 0.52,
+        "players": 32,
+        "md5": "ffa8beca32b6552e6fd003183a074faf"
+    },
+    "d820be8513cd93b29f14d1ee0182d553": {
+        "title": "BOUNCE THE TECH †LEGGENDARIA",
+        "grade": 8,
+        "max_score": 3908,
+        "zenichi": 3751,
+        "average": 3029.2622950819673,
+        "p": 0.82,
+        "players": 61,
+        "md5": "d820be8513cd93b29f14d1ee0182d553"
+    },
+    "2bef2aaca13082016b396c6beddc4f61": {
+        "title": "Dreadnought [DP sub black another+]",
+        "grade": 8,
+        "max_score": 3956,
+        "zenichi": 3525,
+        "average": 2894.6222222222223,
+        "p": 0.9,
+        "players": 45,
+        "md5": "2bef2aaca13082016b396c6beddc4f61"
+    },
+    "09ddc29dfc8ac70ceba82c7755efd84f": {
+        "title": "Evanescent [DP ANOTHER]",
+        "grade": 8,
+        "max_score": 3948,
+        "zenichi": 3654,
+        "average": 2698.2758620689656,
+        "p": 0.94,
+        "players": 58,
+        "md5": "09ddc29dfc8ac70ceba82c7755efd84f"
+    },
+    "fab011bc0c8eb78acecb02fe1d5ff2d1": {
+        "title": "furioso melodia -forbidden fruta-",
+        "grade": 8,
+        "max_score": 4330,
+        "zenichi": 4104,
+        "average": 3443.2093023255816,
+        "p": 0.53,
+        "players": 43,
+        "md5": "fab011bc0c8eb78acecb02fe1d5ff2d1"
+    },
+    "50e2f39b3d1904bbb16d308549901a19": {
+        "title": "Grayed Out -Antifront- [DPA]",
+        "grade": 8,
+        "max_score": 3554,
+        "zenichi": 3376,
+        "average": 2684.1545454545453,
+        "p": 1.09,
+        "players": 110,
+        "md5": "50e2f39b3d1904bbb16d308549901a19"
+    },
+    "93086ca5d235d4b32016cf44520f50b9": {
+        "title": "New Windy Paradise [DP MANIAC]",
+        "grade": 8,
+        "max_score": 4204,
+        "zenichi": 4103,
+        "average": 3286.4444444444443,
+        "p": 0.38,
+        "players": 27,
+        "md5": "93086ca5d235d4b32016cf44520f50b9"
+    },
+    "83532297a527618c5a3b90da74f56d15": {
+        "title": "PEACE BREAKER [DP ANOTHER]",
+        "grade": 8,
+        "max_score": 4220,
+        "zenichi": 3827,
+        "average": 3253.9811320754716,
+        "p": 1.38,
+        "players": 53,
+        "md5": "83532297a527618c5a3b90da74f56d15"
+    },
+    "8cc4f01e3855e3f0acbe26920762fe32": {
+        "title": "Toki (Sound piercer's Timesucker Remix) [DP ANOTHER]",
+        "grade": 8,
+        "max_score": 4436,
+        "zenichi": 4065,
+        "average": 3329.095238095238,
+        "p": 0.96,
+        "players": 63,
+        "md5": "8cc4f01e3855e3f0acbe26920762fe32"
+    },
+    "0fe0b055eb07f9feba4f9f26d8b725c7": {
+        "title": "Where To Feel [激鍵14]",
+        "grade": 8,
+        "max_score": 3760,
+        "zenichi": 3407,
+        "average": 2680.057142857143,
+        "p": 0.49,
+        "players": 35,
+        "md5": "0fe0b055eb07f9feba4f9f26d8b725c7"
+    },
+    "5ad08be587d9d42971084fc701df0693": {
+        "title": "witchcraft [14A]",
+        "grade": 8,
+        "max_score": 4282,
+        "zenichi": 4119,
+        "average": 3268.823529411765,
+        "p": 0.55,
+        "players": 34,
+        "md5": "5ad08be587d9d42971084fc701df0693"
+    },
+    "2410f0012ff221ef64923eaafc027389": {
+        "title": "月時計 Last・Dial (DoubleLunatic+)",
+        "grade": 8,
+        "max_score": 4152,
+        "zenichi": 3945,
+        "average": 3339.787878787879,
+        "p": 0.99,
+        "players": 66,
+        "md5": "2410f0012ff221ef64923eaafc027389"
+    },
+    "9ee3eda36a1d43c84798caaa51dcc4d8": {
+        "title": "Acid Drizzle -レイクサイド-",
+        "grade": 9,
+        "max_score": 4184,
+        "zenichi": 3954,
+        "average": 3391.2926829268295,
+        "p": 0.57,
+        "players": 41,
+        "md5": "9ee3eda36a1d43c84798caaa51dcc4d8"
+    },
+    "968e735562607ffb60a83d4170b5c138": {
+        "title": "Chronomia [VerH]",
+        "grade": 9,
+        "max_score": 4176,
+        "zenichi": 3830,
+        "average": 3318.744680851064,
+        "p": 0.64,
+        "players": 47,
+        "md5": "968e735562607ffb60a83d4170b5c138"
+    },
+    "81fb3b4f09be4959426ee5c2441a4184": {
+        "title": "Clover (BMS Edit) [Fourteen-leaf]",
+        "grade": 9,
+        "max_score": 4444,
+        "zenichi": 4259,
+        "average": 3416.720930232558,
+        "p": 0.46,
+        "players": 43,
+        "md5": "81fb3b4f09be4959426ee5c2441a4184"
+    },
+    "0c38eafa5cf3a4440832242fd1bd2ef7": {
+        "title": "CYCLONE",
+        "grade": 9,
+        "max_score": 4028,
+        "zenichi": 3758,
+        "average": 2790.904,
+        "p": 1.2,
+        "players": 125,
+        "md5": "0c38eafa5cf3a4440832242fd1bd2ef7"
+    },
+    "8a03405fa7a6a3b0f93880e81ccc3f46": {
+        "title": "DELIGHTS -EXTREME14-",
+        "grade": 9,
+        "max_score": 3652,
+        "zenichi": 3389,
+        "average": 2906.7567567567567,
+        "p": 0.64,
+        "players": 37,
+        "md5": "8a03405fa7a6a3b0f93880e81ccc3f46"
+    },
+    "a703e4bf5a0fe2f7904596fd118f29d0": {
+        "title": "Dystopia High [DPA]",
+        "grade": 9,
+        "max_score": 4614,
+        "zenichi": 4269,
+        "average": 3557.777777777778,
+        "p": 0.49,
+        "players": 36,
+        "md5": "a703e4bf5a0fe2f7904596fd118f29d0"
+    },
+    "4b2d84e3ee6fddaf678d30cb695d638a": {
+        "title": "Judah [DP INSANE]",
+        "grade": 9,
+        "max_score": 3950,
+        "zenichi": 3629,
+        "average": 2986.1875,
+        "p": 0.89,
+        "players": 48,
+        "md5": "4b2d84e3ee6fddaf678d30cb695d638a"
+    },
+    "19dd7514996c1d83396cf79d33dd0b03": {
+        "title": "Love☆Spellcard",
+        "grade": 9,
+        "max_score": 4368,
+        "zenichi": 4180,
+        "average": 3596.7391304347825,
+        "p": 0.65,
+        "players": 46,
+        "md5": "19dd7514996c1d83396cf79d33dd0b03"
+    },
+    "091001b3a2865a7c463f882de5377679": {
+        "title": "Mario Paint (Time Regression Mix for BMS) -4つ同時押し-",
+        "grade": 9,
+        "max_score": 5486,
+        "zenichi": 5408,
+        "average": 4746.738461538462,
+        "p": 1.26,
+        "players": 65,
+        "md5": "091001b3a2865a7c463f882de5377679"
+    },
+    "a9d1c94124f0b6956fe2abb4a1c44c90": {
+        "title": "Moon-gate [Waning]",
+        "grade": 9,
+        "max_score": 4912,
+        "zenichi": 4650,
+        "average": 3893.318181818182,
+        "p": 0.36,
+        "players": 22,
+        "md5": "a9d1c94124f0b6956fe2abb4a1c44c90"
+    },
+    "88c3f3fb8a5d2587fc78735155e33509": {
+        "title": "Parasitize Your Head [DP INSANE]",
+        "grade": 9,
+        "max_score": 5252,
+        "zenichi": 5000,
+        "average": 4042.934426229508,
+        "p": 0.71,
+        "players": 61,
+        "md5": "88c3f3fb8a5d2587fc78735155e33509"
+    },
+    "d69afec5896d7e9963869d1b0247edaf": {
+        "title": "rainy beauty [ワイルドシ　ョット14]",
+        "grade": 9,
+        "max_score": 3800,
+        "zenichi": 3653,
+        "average": 3049.5730337078653,
+        "p": 0.7,
+        "players": 89,
+        "md5": "d69afec5896d7e9963869d1b0247edaf"
+    },
+    "a9069d6f170641ede5204a5a7ea42920": {
+        "title": "sola [DP LUNATIC]",
+        "grade": 9,
+        "max_score": 4920,
+        "zenichi": 4737,
+        "average": 4050.217391304348,
+        "p": 1.2,
+        "players": 69,
+        "md5": "a9069d6f170641ede5204a5a7ea42920"
+    },
+    "d456037131dc98541200c34c3fe146ae": {
+        "title": "Summerland [14key_Extreme]",
+        "grade": 9,
+        "max_score": 3270,
+        "zenichi": 3148,
+        "average": 2670.4827586206898,
+        "p": 0.65,
+        "players": 58,
+        "md5": "d456037131dc98541200c34c3fe146ae"
+    },
+    "053a9df4c39af51f5437b7377101a0e6": {
+        "title": "TEN -Q-",
+        "grade": 9,
+        "max_score": 6304,
+        "zenichi": 6050,
+        "average": 4999.405405405405,
+        "p": 0.47,
+        "players": 37,
+        "md5": "053a9df4c39af51f5437b7377101a0e6"
+    },
+    "809c2afcebe15179b8d3f8bd6b0b340f": {
+        "title": "Wizdomiot [DP INSANE]",
+        "grade": 9,
+        "max_score": 4500,
+        "zenichi": 4175,
+        "average": 3645.777777777778,
+        "p": 0.86,
+        "players": 63,
+        "md5": "809c2afcebe15179b8d3f8bd6b0b340f"
+    },
+    "3af95ce4ad9e59bcdd001bd151225200": {
+        "title": "XVOTO",
+        "grade": 9,
+        "max_score": 4816,
+        "zenichi": 4570,
+        "average": 3644.8571428571427,
+        "p": 0.6,
+        "players": 42,
+        "md5": "3af95ce4ad9e59bcdd001bd151225200"
+    },
+    "3d03c5f1f609206bd51d852ebe5b4b74": {
+        "title": "Yorixiro [OyaxiroSama]",
+        "grade": 9,
+        "max_score": 4444,
+        "zenichi": 4291,
+        "average": 3738.529411764706,
+        "p": 0.37,
+        "players": 17,
+        "md5": "3d03c5f1f609206bd51d852ebe5b4b74"
+    },
+    "6e18537e473d8bd3b50b36b08f82b9dd": {
+        "title": "空飛ぶニワトリ [M]",
+        "grade": 9,
+        "max_score": 4702,
+        "zenichi": 4678,
+        "average": 4278.15,
+        "p": 0.25,
+        "players": 20,
+        "md5": "6e18537e473d8bd3b50b36b08f82b9dd"
+    },
+    "71c548fdce2718d3ca4ffef88e1b2bcd": {
+        "title": "Armageddon [DP]",
+        "grade": 10,
+        "max_score": 4940,
+        "zenichi": 4607,
+        "average": 3934.3333333333335,
+        "p": 0.4,
+        "players": 24,
+        "md5": "71c548fdce2718d3ca4ffef88e1b2bcd"
+    },
+    "52fdcccccfe731534f011e4c3e500a6a": {
+        "title": "Complex Colors -改 MIX- [DP ANOTHER]",
+        "grade": 10,
+        "max_score": 4226,
+        "zenichi": 3910,
+        "average": 3111.5581395348836,
+        "p": 0.66,
+        "players": 43,
+        "md5": "52fdcccccfe731534f011e4c3e500a6a"
+    },
+    "ead4d5ef2f682641679929a7f532c3d7": {
+        "title": "Disillusion code [DP ANOTHER]",
+        "grade": 10,
+        "max_score": 4662,
+        "zenichi": 4253,
+        "average": 3408.1147540983607,
+        "p": 0.95,
+        "players": 61,
+        "md5": "ead4d5ef2f682641679929a7f532c3d7"
+    },
+    "0e05593e0b01c2fa57281cc42c22cdb0": {
+        "title": "H.S : Hadron Strike [DP ANOTHER]",
+        "grade": 10,
+        "max_score": 4400,
+        "zenichi": 4176,
+        "average": 3400.791044776119,
+        "p": 0.69,
+        "players": 67,
+        "md5": "0e05593e0b01c2fa57281cc42c22cdb0"
+    },
+    "61296a55d89ae86f957873df1cd011f1": {
+        "title": "IKAROS [DP Nymph]",
+        "grade": 10,
+        "max_score": 4624,
+        "zenichi": 4451,
+        "average": 3416.746987951807,
+        "p": 0.9,
+        "players": 83,
+        "md5": "61296a55d89ae86f957873df1cd011f1"
+    },
+    "4a4fbf7e7c9a95a0b1dd34685331b9a3": {
+        "title": "Illusion of Mind [DP Another]",
+        "grade": 10,
+        "max_score": 4572,
+        "zenichi": 4090,
+        "average": 3212.25,
+        "p": 1.14,
+        "players": 52,
+        "md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3"
+    },
+    "101c37c44d865b61b391fae7614eaaea": {
+        "title": "Life is PIANO [DP INS☆NE]",
+        "grade": 10,
+        "max_score": 4840,
+        "zenichi": 4662,
+        "average": 3653.1388888888887,
+        "p": 0.45,
+        "players": 36,
+        "md5": "101c37c44d865b61b391fae7614eaaea"
+    },
+    "e2e430faf05b6a5d2b0ab301cb03657a": {
+        "title": "Only Diversity [DPA]",
+        "grade": 10,
+        "max_score": 4518,
+        "zenichi": 4336,
+        "average": 3632.0882352941176,
+        "p": 0.44,
+        "players": 34,
+        "md5": "e2e430faf05b6a5d2b0ab301cb03657a"
+    },
+    "b0f4e90d2b48d2f57b035a5a5ae5afde": {
+        "title": "Unleashed World [Fairytale]",
+        "grade": 10,
+        "max_score": 4000,
+        "zenichi": 3684,
+        "average": 2935.212121212121,
+        "p": 0.41,
+        "players": 33,
+        "md5": "b0f4e90d2b48d2f57b035a5a5ae5afde"
+    },
+    "470c74d414f15d5f2ae9b4c3f65ca787": {
+        "title": "トココ21 ⊂㌍㌢⊃",
+        "grade": 10,
+        "max_score": 4388,
+        "zenichi": 3999,
+        "average": 3446.1923076923076,
+        "p": 0.82,
+        "players": 52,
+        "md5": "470c74d414f15d5f2ae9b4c3f65ca787"
+    },
+    "d6a2f738b3d383db092e65b46a86a829": {
+        "title": "ヒメタイプ [DP CHALLENGER]",
+        "grade": 10,
+        "max_score": 4126,
+        "zenichi": 3753,
+        "average": 3197.2051282051284,
+        "p": 0.65,
+        "players": 39,
+        "md5": "d6a2f738b3d383db092e65b46a86a829"
+    },
+    "bf07d0084dd2e6d84eaa7affe0d47a0c": {
+        "title": "プナイプナイせんそう [DP ☆NOTHER]",
+        "grade": 10,
+        "max_score": 4568,
+        "zenichi": 4301,
+        "average": 3499.3454545454547,
+        "p": 0.59,
+        "players": 55,
+        "md5": "bf07d0084dd2e6d84eaa7affe0d47a0c"
+    },
+    "24946be731a25ce1470bb7a8d4e403e7": {
+        "title": "プナイプナイたいそう [DP ☆NOTHER]",
+        "grade": 10,
+        "max_score": 3286,
+        "zenichi": 3145,
+        "average": 2623.5238095238096,
+        "p": 0.59,
+        "players": 42,
+        "md5": "24946be731a25ce1470bb7a8d4e403e7"
+    },
+    "594878a019df01f5412b72853b03484c": {
+        "title": "ポケットモンスター BW2 アイリス戦 -One More Extra Stage-",
+        "grade": 10,
+        "max_score": 3440,
+        "zenichi": 3206,
+        "average": 2678.8709677419356,
+        "p": 0.53,
+        "players": 31,
+        "md5": "594878a019df01f5412b72853b03484c"
+    },
+    "e7857ae7f38cec394840be0bc2ae3753": {
+        "title": "兎は舞い降りた [DPHARD]",
+        "grade": 10,
+        "max_score": 4402,
+        "zenichi": 4197,
+        "average": 2755.9857142857145,
+        "p": 1.07,
+        "players": 70,
+        "md5": "e7857ae7f38cec394840be0bc2ae3753"
+    },
+    "0c828e4a9805195c688972d2d58b89ad": {
+        "title": "異説彼岸花 第二 -終世のリコリス- [DP INSANE]",
+        "grade": 10,
+        "max_score": 4636,
+        "zenichi": 4424,
+        "average": 3794.0,
+        "p": 1.01,
+        "players": 77,
+        "md5": "0c828e4a9805195c688972d2d58b89ad"
+    },
+    "609c7cedebd3a895dc46ab9dfc97a345": {
+        "title": "硬核機動 [DP ANOTHER]",
+        "grade": 10,
+        "max_score": 4838,
+        "zenichi": 4436,
+        "average": 3600.7115384615386,
+        "p": 0.79,
+        "players": 52,
+        "md5": "609c7cedebd3a895dc46ab9dfc97a345"
+    },
+    "de397d520c998e66bbab4017791c9668": {
+        "title": "禁忌と緋色幻想 -The Primary Plasm- [Red Storm]",
+        "grade": 10,
+        "max_score": 4928,
+        "zenichi": 4510,
+        "average": 3481.5,
+        "p": 0.75,
+        "players": 36,
+        "md5": "de397d520c998e66bbab4017791c9668"
+    },
+    "ad27797ac54d934ad13ee1dcafdd329d": {
+        "title": "#be_fortunate [DPYoitherEASY]",
+        "grade": 11,
+        "max_score": 5192,
+        "zenichi": 4645,
+        "average": 4118.0,
+        "p": 1.5,
+        "players": 8,
+        "md5": "ad27797ac54d934ad13ee1dcafdd329d"
+    },
+    "51fe7ee56efa0c29890749f058679669": {
+        "title": "* Crow Solace * [DPA]",
+        "grade": 11,
+        "max_score": 4468,
+        "zenichi": 4046,
+        "average": 3502.3125,
+        "p": 0.76,
+        "players": 16,
+        "md5": "51fe7ee56efa0c29890749f058679669"
+    },
+    "5f5be91b44b0108d91c48e01b0e27c41": {
+        "title": "Chatblanc [blache]",
+        "grade": 11,
+        "max_score": 3100,
+        "zenichi": 3018,
+        "average": 2575.1923076923076,
+        "p": 0.53,
+        "players": 26,
+        "md5": "5f5be91b44b0108d91c48e01b0e27c41"
+    },
+    "581dfb81c885d9b7b6ea868bf3524a47": {
+        "title": "Jack o' Lantern ≧w≦",
+        "grade": 11,
+        "max_score": 4028,
+        "zenichi": 3785,
+        "average": 3207.1627906976746,
+        "p": 0.62,
+        "players": 43,
+        "md5": "581dfb81c885d9b7b6ea868bf3524a47"
+    },
+    "59084302deb34b9bd015a1abe02d6b23": {
+        "title": "L9",
+        "grade": 11,
+        "max_score": 4000,
+        "zenichi": 3911,
+        "average": 3125.48,
+        "p": 0.36,
+        "players": 25,
+        "md5": "59084302deb34b9bd015a1abe02d6b23"
+    },
+    "f11ba440f47e6485789b507d7ca5b450": {
+        "title": "new earth -dp stella-",
+        "grade": 11,
+        "max_score": 5112,
+        "zenichi": 4869,
+        "average": 3936.0,
+        "p": 0.43,
+        "players": 18,
+        "md5": "f11ba440f47e6485789b507d7ca5b450"
+    },
+    "40f0c8314e93ea572f5ab6e0e2a81eda": {
+        "title": "STAGER [ONE MORE EXTRA]",
+        "grade": 11,
+        "max_score": 5248,
+        "zenichi": 5021,
+        "average": 4268.51282051282,
+        "p": 0.44,
+        "players": 39,
+        "md5": "40f0c8314e93ea572f5ab6e0e2a81eda"
+    },
+    "584450308e2b02b3a71a3979c16cdb4f": {
+        "title": "プナイプナイげんそう [DP ☆NOTHER ~ 無限の彼方までおやすみプナイ ~]",
+        "grade": 11,
+        "max_score": 4770,
+        "zenichi": 4401,
+        "average": 3722.31914893617,
+        "p": 0.69,
+        "players": 47,
+        "md5": "584450308e2b02b3a71a3979c16cdb4f"
+    },
+    "17e065f48caca8af9374dc953c9b06d4": {
+        "title": "マッドメチャクチャニズム [DP ANOTHER]",
+        "grade": 11,
+        "max_score": 4698,
+        "zenichi": 4282,
+        "average": 3515.72,
+        "p": 0.51,
+        "players": 25,
+        "md5": "17e065f48caca8af9374dc953c9b06d4"
+    },
+    "37cc734cb35cc8f74fa0f36d2ae0e916": {
+        "title": "夜間飛行トラベラー [DP MANIAC]",
+        "grade": 11,
+        "max_score": 5574,
+        "zenichi": 5326,
+        "average": 4388.0,
+        "p": 0.34,
+        "players": 21,
+        "md5": "37cc734cb35cc8f74fa0f36d2ae0e916"
+    },
+    "23a2dc41098afccba3f4e207fa4f8bb1": {
+        "title": "少女監獄ヴァンパイアフィリア -DP ANOTHER-",
+        "grade": 11,
+        "max_score": 6024,
+        "zenichi": 5676,
+        "average": 5088.705882352941,
+        "p": 0.63,
+        "players": 17,
+        "md5": "23a2dc41098afccba3f4e207fa4f8bb1"
+    },
+    "afac99105d812beffa8de61b3f47ea51": {
+        "title": "櫻嬰嬰 [DP EXTRA]",
+        "grade": 11,
+        "max_score": 4352,
+        "zenichi": 4244,
+        "average": 3834.423076923077,
+        "p": 0.43,
+        "players": 26,
+        "md5": "afac99105d812beffa8de61b3f47ea51"
+    },
+    "b1ca95e12d38a70429a166db3e93dc9b": {
+        "title": "Angel dust",
+        "grade": 12,
+        "max_score": 6844,
+        "zenichi": 6048,
+        "average": 4755.181818181818,
+        "p": 0.67,
+        "players": 33,
+        "md5": "b1ca95e12d38a70429a166db3e93dc9b"
+    },
+    "6f9b11e0ff8d347672bbd8e715f04ccd": {
+        "title": "Apollo [1970.04.11]",
+        "grade": 12,
+        "max_score": 5050,
+        "zenichi": 4790,
+        "average": 4100.967741935484,
+        "p": 0.51,
+        "players": 31,
+        "md5": "6f9b11e0ff8d347672bbd8e715f04ccd"
+    },
+    "7a26d0eda820c694576926482b5ef5a6": {
+        "title": "FIONA [Enjoy]",
+        "grade": 12,
+        "max_score": 5284,
+        "zenichi": 4732,
+        "average": 3958.7916666666665,
+        "p": 0.47,
+        "players": 24,
+        "md5": "7a26d0eda820c694576926482b5ef5a6"
+    },
+    "90fb4a5b1f492f517d2f650d7129dc23": {
+        "title": "Freja -Royal Flare-",
+        "grade": 12,
+        "max_score": 5024,
+        "zenichi": 4711,
+        "average": 3780.8,
+        "p": 0.3,
+        "players": 25,
+        "md5": "90fb4a5b1f492f517d2f650d7129dc23"
+    },
+    "baa218833211f71a4a589528adbe184b": {
+        "title": "The sinking world [DP EXTREME 2]",
+        "grade": 12,
+        "max_score": 4662,
+        "zenichi": 4589,
+        "average": 4052.6,
+        "p": 1.5,
+        "players": 10,
+        "md5": "baa218833211f71a4a589528adbe184b"
+    },
+    "0b1234798d2da9bbde81c1eaf6111005": {
+        "title": "WHIRLWIND [Twin Blast]",
+        "grade": 12,
+        "max_score": 5078,
+        "zenichi": 4753,
+        "average": 3926.4,
+        "p": 0.38,
+        "players": 20,
+        "md5": "0b1234798d2da9bbde81c1eaf6111005"
+    }
+}
